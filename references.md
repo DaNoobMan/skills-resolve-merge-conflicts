@@ -1,3 +1,4 @@
-# References
+THIS IS CONFLICTING!?!?!?!?!?!??!?!?!?
 
-* octocat 1 😈
+
+COMMIT MESSAGE
